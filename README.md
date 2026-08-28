@@ -112,20 +112,6 @@ Predictive maintenance system leveraging machine learning and sensor data to for
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Saiganeshk15show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saiganeshk15&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiganeshk15&layout=compact&hide_border=true)
-
-</div>
-
----
-
 # Currently Learning
 
 - Diffusion Models
